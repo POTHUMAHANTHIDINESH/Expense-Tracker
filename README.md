@@ -15,8 +15,7 @@
 </p>
 
 ---
-### Demo  ##
-![Demo Expense Tracker application](./demo/demo.gif)
+
 
 ---
 
